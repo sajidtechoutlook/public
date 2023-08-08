@@ -1,5 +1,16 @@
 {
-    "require": {
-        "sajidtech/public": "^1.0"
+  "name": "sajidtech/public",
+  "description": "my first public package",
+  "type": "library",
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Sajid",
+      "email": "sajidtech@outlook.com"
     }
+  ],
+  "minimum-stability": "dev"
 }
